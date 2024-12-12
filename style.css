@@ -10,3 +10,17 @@ h1{
     color: white;
 }
 
+li, a, button {
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 16px;
+color: rgb(228, 230, 216);
+text-decoration: none;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
